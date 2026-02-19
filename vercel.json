@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "pages/api/traceroute.js": {
+      "maxDuration": 60
+    }
+  },
+  "rewrites": [
+    { "source": "/ca63eccfcf11bcd02c1a900196de630f_720w.mp4", "destination": "/ca63eccfcf11bcd02c1a900196de630f_720w.mp4" }
+  ]
+}
